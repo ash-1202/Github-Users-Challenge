@@ -15,7 +15,7 @@
     </fragment>
 
     <fragment android:id="@+id/singleUserFragment"
-              android:name="ir.sdrv.mobilletsample.presentation.view.SingleUserFragment"
+              android:name="com.jodel.githubusers.ui.view.SingleUserFragment"
               android:label="@string/single_user_fragment_title"
               tools:layout="@layout/single_user_fragment">
 
